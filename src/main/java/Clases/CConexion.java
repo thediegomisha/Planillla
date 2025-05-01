@@ -20,8 +20,8 @@ public class CConexion {
     String Usuario = "avnadmin";
     String contrasena = "AVNS_dxoPHMY5rFlXPE9lk76";
     String bd = "defaultdb";
-    String ip = "mysql-28587073-juludiaztheathoq-ce29.l.aivencloud.com";
-    String puerto = "23418";
+    String ip = "mysql-236d391f-inca-1ce6.l.aivencloud.com";
+    String puerto = "21596";
     
     String cadena = "jdbc:mariadb://" +ip+ ":" +puerto+ "/" +bd + "?sslMode=trust";
     
