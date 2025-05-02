@@ -17,8 +17,8 @@ public class CConexion {
     
     Connection conectar = null;
     
-    String Usuario = "";
-    String contrasena = "";
+    String Usuario = "avnadmin";
+    String contrasena = "AVNS_dxoPHMY5rFlXPE9lk76";
     String bd = "defaultdb";
     String ip = "mysql-28587073-juludiaztheathoq-ce29.l.aivencloud.com";
     String puerto = "23418";
